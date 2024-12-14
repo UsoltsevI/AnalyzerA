@@ -1,5 +1,9 @@
 # AnalyzerA
 
+PRINTLN: THIS PART OF PROJECT IS NOT FINISHED YET.
+SEE [COLLECOTRA](https://github.com/UsoltsevI/CollectorA) PROJECT!
+
+
 Related project: [CollectorA](https://github.com/UsoltsevI/CollectorA)
 
 This program takes data from the database and builds 
